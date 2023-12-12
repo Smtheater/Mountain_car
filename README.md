@@ -1,5 +1,5 @@
 # Mountain_car
-이 프로젝트는 OpenAI Gym의 MountainCar-v0 환경에서 Deep Q-Network (DQN)을 사용하여 화물차 번호판을 학습하는 강화 학습 에이전트입니다.
+이 프로젝트는 OpenAI Gym의 MountainCar-v0 환경에서 Deep Q-Network (DQN)을 사용하여 학습하는 강화 학습 에이전트입니다.
 
 환경 설정
 이 코드를 실행하려면 먼저 필요한 라이브러리를 설치해야 합니다. 다음 명령어를 사용하여 필요한 패키지를 설치합니다.
