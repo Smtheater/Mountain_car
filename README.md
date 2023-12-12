@@ -6,7 +6,7 @@
 bash
 Copy code
 pip install gym numpy matplotlib torch
-main.py 파일을 열어서 DQN, ReplayBuffer 및 관련 클래스 및 함수를 확인하십시오. 필요 시 코드를 수정하거나 확장할 수 있습니다.
+프로그램 소스 파일을 열어서 DQN, ReplayBuffer 및 관련 클래스 및 함수를 확인하십시오. 필요 시 코드를 수정하거나 확장할 수 있습니다.
 실행 방법
 프로젝트를 실행하려면 main.py 파일을 실행하십시오. 다음 명령어를 사용합니다.
 
